@@ -1,5 +1,4 @@
 3zr4 ckz
-she/her
 beginner in python & java
 <!---
 3zr4-ckz/3zr4-ckz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
